@@ -6153,6 +6153,13 @@ footer {
   font-family: "Roboto Mono";
   font-size: 11px; }
 
+@media (max-width: 460px) {
+  footer {
+    flex-direction: column;
+    margin-top: 14px; }
+
+  footer * {
+    margin: 6px 0; } }
 .portfolio-modal .modal-content {
   margin: 0 auto;
   padding-top: 51px;
