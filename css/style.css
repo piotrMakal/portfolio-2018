@@ -6267,6 +6267,9 @@ footer {
 .portfolio-modal .modal-content h2 + .multimedia {
   margin-top: 10px; }
 
+.portfolio-modal .modal-content h2 + p + .multimedia {
+  margin-top: 18px; }
+
 .portfolio-modal .modal-content .multimedia .copyrights {
   display: block;
   margin: 6px 41px;
