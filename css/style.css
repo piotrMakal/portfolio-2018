@@ -6277,6 +6277,9 @@ footer {
   font-family: "Roboto Mono";
   font-size: 9px; }
 
+.portfolio-modal .modal-content .multimedia video + .copyrights {
+  margin-top: 1px; }
+
 .portfolio-modal .close-modal {
   position: absolute;
   top: 0px;

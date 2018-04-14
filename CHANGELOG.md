@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 2018-04-14
+#### Added
+- Content to CAD Models modal section.
+- New content to Archmodels vol. 146 modal section.
+#### Changed
+- Replaced video from Alien: Isolation with an image under Fast, small, unfinished modal section.
+#### Fixed
+- Margin issues with copyrights under <video> tag in modal sections.
+
 ## 2018-04-12
 #### Added
 - Added new work tiles.
