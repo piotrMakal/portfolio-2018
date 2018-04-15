@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## 2018-04-14
 #### Added
+- Content to Photographs 2010-2011 modal section.
+
+## 2018-04-14
+#### Added
 - Content to CAD Models modal section.
 - New content to Archmodels vol. 146 modal section.
 #### Changed
