@@ -4,11 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 2018-04-21
+#### Changed
+- Bunch of small changes in different areas.
+
 ## 2018-04-16
 #### Added
 - Content to Graphics at University modal section.
 
-## 2018-04-14
+## 2018-04-15
 #### Added
 - Content to Photographs 2010-2011 modal section.
 
@@ -23,7 +27,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## 2018-04-12
 #### Added
-- Added new work tiles.
+- New work tiles.
 - Content for Fast, small, unfinished modal section. 
 #### Changed
 - Replaced two graphics in Exploding Adventure modal section. 
