@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## 2018-04-22
+#### Added
+- Content to Weed Scale modal section.
+#### Fixed
+- Scaling issues with *iframe* tag.
+
 ## 2018-04-21
 #### Changed
 - Bunch of small changes in different areas.
@@ -23,7 +29,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 #### Changed
 - Replaced video from Alien: Isolation with an image under Fast, small, unfinished modal section.
 #### Fixed
-- Margin issues with copyrights under <video> tag in modal sections.
+- Margin issues with copyrights under *video* tag in modal sections.
 
 ## 2018-04-12
 #### Added
